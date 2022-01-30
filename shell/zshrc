@@ -1,0 +1,2 @@
+alias cleandd='rm -rf ~/Library/Developer/Xcode/DerivedData'
+alias gitclean='git pull && git prune && git remote prune origin'
